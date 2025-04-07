@@ -309,3 +309,8 @@ body {
 .read-more-btn:hover {
   background-color: #b73b5b;
 }
+
+.hppy {
+  color: #b73b5b;
+  text-transform: uppercase;
+}
